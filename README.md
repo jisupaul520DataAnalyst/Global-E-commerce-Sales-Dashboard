@@ -64,7 +64,7 @@ The dashboard helps analyze:
 - Dashboard Screenshots
 ---
 ## Dashboard Preview
-![Dashboard Preview](Images/dashboard_preview.png)
+![Dashboard Preview](dashboard-overview.png)
 ---
 ## How to Use
 1. Download or clone the repository
